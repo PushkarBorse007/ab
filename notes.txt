@@ -1,0 +1,42 @@
+////echo "# Sept23Git" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin <>url
+  git push -u origin main
+
+
+
+-->
+
+<!-- git init
+git status
+git add <fileNmae> / . (all files from current folder)
+  git commit -m ""  
+
+git remote add origin <URL>
+  git branch -M main
+  git push -u origin main
+
+ ..... to config user
+  git config --global user.email "email"
+  git config --global user.name "name"
+   git config --global editor= code --wait  (to set VSCode as a default editor)
+
+
+  ... to pull 
+  git init 
+  git remote 
+  git branch -m 
+  git pull <URl>
+
+
+    .....
+    git log
+    git checkout 
+
+
+    git merge <childBranchName> (run it from parent branch)
+      git branch <branchName>
+-->
